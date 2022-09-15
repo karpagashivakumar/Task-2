@@ -1,9 +1,0 @@
-body {
-    color: rgb(255, 0, 0);
-    border: 10px;
-    border-style:double;
-}
-
-button:hover {
-    color: red;
-}
